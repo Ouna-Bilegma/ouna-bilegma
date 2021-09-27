@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hey there, I'm Oiuna! <img src="https://thumbs.gfycat.com/AngelicIncredibleJaguar-size_restricted.gif" width="50"></h2>
-<p><em>I'm a 27 year old Nomad girl who finally found a place to settle down in Belgium.
+<p><em>I'm a 28 year old Nomad girl who finally found a place to settle down in Belgium.
 But even though my roots are in the soil, I keep wanting to expand my horizons, that's why I'm studying web development at  <a href="https://becode.org/"> Becode</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   <p>I'm always enthousiastic to learn new things and to meet new people. <img src= "https://www.kewisk.com/images/gif/IlliterateTerribleBaiji-size_restricted.gif" width="50"<p>
   
